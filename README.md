@@ -38,7 +38,9 @@ venv\Scripts\activate
 ### Installing dependencies
 3. Install all necessary packages from `requirements.txt`:
 
+```
 pip install -r requirements.txt
+```
 
 ---
 
